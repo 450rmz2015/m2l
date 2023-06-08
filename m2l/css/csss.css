@@ -6,6 +6,13 @@ body
 	 font: 0.8em "Trebuchet MS", helvetica, sans-serif ;
 	 background: #231D1C ;
 }
+
+body img
+{
+	width: 50px ;
+	margin: 0 auto ;
+}
+
 header
 {
 	 height: 258px ;
