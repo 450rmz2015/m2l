@@ -1,0 +1,283 @@
+body
+{
+	 margin: 10px 0 ;
+	 padding: 0 ;
+	 text-align: center ;
+	 font: 0.8em "Trebuchet MS", helvetica, sans-serif ;
+	 background: #23363C ;
+}
+header
+{
+	 height: 258px ;
+	 margin: 0 ;
+	 text-align: center ;
+	 background: url("../images/pont.jpg") no-repeat left top;
+}
+header h1
+{
+	 font-size: 250% ;
+	 color: #000000 ;
+}
+header h2
+{
+        font-size: 200% ;
+        font-style: italic ;
+		color: #000000 ;
+}
+div#titre
+{
+        text-align: center ;
+        font-size: 25px ;
+}
+div#production
+{
+        font-size: 20px
+}
+
+div#conteneur
+{
+	width: 768px ;
+	margin: 0 auto ;
+	text-align: left ;
+	border: 2px solid #000000 ;
+	background: #fff ;
+}
+
+p#contenu3
+{
+	width: 770px ;
+	margin: 0 auto ;
+	text-align: left ;
+	border: 2px solid #ab4 ;
+	background: #fff ;
+}
+
+nav#menuhorizontal ul{
+	height: 25px ;
+	margin: 0 ;
+	padding: 0 ;
+	background: url(../images/fond_menu.jpeg) repeat-x 0 -25px ;
+	list-style-type: none ;
+}
+
+nav#menuvertical ul{
+	margin-top: 280px ;
+	float : left ;
+	width: 225px ;
+	text-align: left ;
+}
+
+nav#menuhorizontal li{
+	float: left ;
+	text-align: center ;
+}
+
+nav#menuvertical li{
+	float: left ;
+	text-align: left ;
+}
+
+nav#menuhorizontal li a{
+	width: 254px ;
+	line-height: 25px ;
+	font-size: 1.2em ;
+	font-weight: bold ;
+	letter-spacing: 2px ;
+	color: #fff ;
+	display: block ;
+	text-decoration: none ;
+}
+
+nav#menuvertical li a{
+	width: 254px ;
+	line-height: 25px ;
+	font-size: 1.2em ;
+	font-weight: bold ;
+	letter-spacing: 2px ;
+	color: rgb(0, 0, 0) ;
+	display: block ;
+	text-decoration: none ;
+	border-right: 2px solid #dea ;
+}
+
+
+nav#menuhorizontal li a:hover
+{
+	background: url(../images/bg_menu.gif) repeat-x 0 0 ;
+}
+nav#menuvertical li a:hover
+{
+	background: url(../images/bg_menu.gif) repeat-x 0 0 ;
+}
+
+nav#menuvertical ul li ul{
+	margin-top: 4px ;
+	float: left ;
+	width: 225px ;
+	text-align: left ;
+}
+
+div#corps
+{
+	text-align: justify;
+	font-size: 15px ;
+	padding: 0 25px 0 100px ;
+	
+}
+
+div#corps h2{
+	font-size: 25px;
+	text-align: center;
+	
+}
+
+div#contenu1
+{
+	font-size: 20px ;
+	text-align: center;
+}
+
+div#contenu2 h2
+{
+	padding-left: 25px ;
+	line-height: 25px ;
+	font-size: 1.4em ;
+	background: url(../images/imgtest.jpg) no-repeat left bottom 0px;
+	color: #9b2 ;
+	border-bottom: 1px solid #9b2 ;
+	text-align: left;
+
+}
+
+div#contenu3 h2 {
+	padding-left: 25px;
+	line-height: 25px;
+	font-size: 1.4em;
+	background: url(../images/imgtest.jpg) no-repeat left bottom 0px;
+	color: #9b2;
+	border-bottom: 1px solid #9b2;
+	text-align: left;
+}
+
+div#contenu4 h2 {
+	padding-left: 25px;
+	line-height: 25px;
+	font-size: 1.4em;
+	background: url(../images/imgtest.jpg) no-repeat left bottom 0px;
+	color: #9b2;
+	border-bottom: 1px solid #9b2;
+	text-align: left;
+}
+
+div#contenu5 h2 {
+	padding-left: 25px;
+	line-height: 25px;
+	font-size: 1.4em;
+	background: url(../images/imgtest.jpg) no-repeat left bottom 0px;
+	color: #9b2;
+	border-bottom: 1px solid #9b2;
+	text-align: left;
+}
+
+div#contenu6 h2 {
+	padding-left: 25px;
+	line-height: 25px;
+	font-size: 1.4em;
+	background: url(../images/imgtest.jpg) no-repeat left bottom 0px;
+	color: #9b2;
+	border-bottom: 1px solid #9b2;
+	text-align: left;
+}
+
+div#contenu7 h2 {
+	padding-left: 25px;
+	line-height: 25px;
+	font-size: 1.4em;
+	background: url(../images/imgtest.jpg) no-repeat left bottom 0px;
+	color: #9b2;
+	border-bottom: 1px solid #9b2;
+	text-align: left;
+}
+
+footer
+{
+	margin: 0 ;
+	padding-right: 10px ;
+	line-height: 30px ;
+	text-align: right ;
+	color: #8a0 ;
+}
+p.copyr
+{
+	color: green ;
+}
+.contact /* classe de style universelle */
+{
+	color: blue ;
+}
+
+
+td#diplomes
+{
+	text-align: center;
+	border: 0px solid black;
+	height: 40px;
+}
+
+td#experience
+{
+	text-align: center;
+	border: 0px solid black;
+	height: 40px;
+}
+
+td#competence
+{
+	text-align: center;
+	border: 0px solid black;
+	height: 40px;
+}
+
+td#autres
+{
+	text-align: center;
+	border: 0px solid black;
+	height: 40px;
+}
+
+td#competence2
+{
+	border: 0px solid black;
+	height: 40px;
+}
+
+td#experience2
+{
+	border: 0px solid black;
+	height: 40px;
+}
+
+td#experience3
+{
+	border: 0px solid black;
+	height: 40px;
+}
+
+td#diplomes2
+{
+	border: 0px solid black;
+	height: 40px;
+}
+
+td#diplomes3
+{
+	border: 0px solid black;
+	height: 40px;
+}
+
+table#cv
+{
+	border: 0px solid black;
+	border-collapse: collapse;
+	width: 600px ;
+}
