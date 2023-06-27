@@ -36,6 +36,20 @@ header h2
 {
 	color: white;
 	font-size: 16px;
+	max-width: 80%;
+}	
+	
+img#image1
+{
+	margin-left: 780px;
+	margin-top: -110px; 
+	width: 300px;
+}	
+
+img#image2
+{
+	margin-top: 50px; 
+	width: 300px;
 }	
 	
 div#titre
