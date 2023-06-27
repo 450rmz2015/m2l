@@ -238,86 +238,36 @@ div#contenu7 h2 {
 	text-align: left;
 }
 
+
+p#copyright
+{
+	text-align: center;
+}
+
 footer
 {
 	margin: 0 ;
 	padding-right: 10px ;
 	line-height: 30px ;
-	text-align: right ;
+	text-align: center ;
 	color: #231D1C;
 }
-p.copyr
-{
-	color: green ;
-	text-align: center;
+
+.boutons {
+  margin-left: left;
+  margin-bottom: 10px;
 }
+
+.boutons a {
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+p.copyr {
+    margin-left: 100px;
+}
+
 .contact /* classe de style universelle */
 {
 	color: blue ;
-}
-
-
-td#diplomes
-{
-	text-align: center;
-	border: 0px solid black;
-	height: 40px;
-}
-
-td#experience
-{
-	text-align: center;
-	border: 0px solid black;
-	height: 40px;
-}
-
-td#competence
-{
-	text-align: center;
-	border: 0px solid black;
-	height: 40px;
-}
-
-td#autres
-{
-	text-align: center;
-	border: 0px solid black;
-	height: 40px;
-}
-
-td#competence2
-{
-	border: 0px solid black;
-	height: 40px;
-}
-
-td#experience2
-{
-	border: 0px solid black;
-	height: 40px;
-}
-
-td#experience3
-{
-	border: 0px solid black;
-	height: 40px;
-}
-
-td#diplomes2
-{
-	border: 0px solid black;
-	height: 40px;
-}
-
-td#diplomes3
-{
-	border: 0px solid black;
-	height: 40px;
-}
-
-table#cv
-{
-	border: 0px solid black;
-	border-collapse: collapse;
-	width: 600px ;
 }
