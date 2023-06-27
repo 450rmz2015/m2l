@@ -57,12 +57,71 @@ img#image2
 	margin-top: 50px; 
 	width: 300px;
 }	
+
+p#Categ1
+{
+	margin-left: 100px;
+	margin-top: 25px; 
+	text-align: center ;
+}
+
+p#Internet
+{
+	margin-left: 60px;
+	margin-top: -75px;  
+}
+
+img#images3
+{
+	margin-left: -25px;
+	margin-top: -35px; 
+	width: 100px;  
+}
+
+p#Wifi
+{
+	margin-left: 60px;
+	margin-top: -75px;  
+}
+
+img#images4
+{
+	margin-left: -5px;
+	margin-top: -5px; 
+	width: 55px;  
+}
+
+p#Téléphonie
+{
+	margin-left: 60px;
+	margin-top: -75px;  
+}
+
+img#images5
+{
+	margin-left: -5px;
+	margin-top: -5px;  
+}
 	
+p#Affranchissement
+{
+	margin-left: 60px;
+	margin-top: -75px;  
+}
+
+img#images6
+{
+	margin-left: -5px;
+	margin-top: 50px; 
+	width: 55px;   
+}
+
 div#titre
 {
         text-align: center ;
         font-size: 25px ;
 }
+
 div#production
 {
         font-size: 20px
