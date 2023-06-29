@@ -104,11 +104,76 @@ img#images3
 	width: 100px;  
 }
 
+img#images20
+{
+	margin-left: -17px;
+	margin-top: -30px; 
+	width: 75px;   
+}
+
+img#images21
+{
+	margin-left: -17px;
+	margin-top: 10px; 
+	width: 75px;       
+}
+img#images22
+{
+	margin-left: -17px;
+	margin-top: 10px; 
+	width: 70px;       
+}
+
+img#images23
+{
+	margin-left: -17px;
+	margin-top: 10px; 
+	width: 70px;       
+}
+
+img#images24
+{
+	margin-left: -17px;
+	margin-top: 10px; 
+	width: 70px;   
+}
+
 p#Wifi
 {
 	margin-left: 60px;
 	margin-top: -75px;  
 }
+
+p#tenniss
+{
+	margin-left: 60px;
+	margin-top: 50px;  
+}
+
+p#foott
+{
+	margin-left: 60px;
+	margin-top: 50px; 
+}
+
+p#plongee
+{
+	margin-left: 60px;
+	margin-top: 50px;  
+}
+
+p#bowlingg
+{
+	margin-left: 60px;
+	margin-top: 50px; 
+}
+
+p#table
+{
+	margin-left: 60px;
+	margin-top: 50px; 
+}
+
 
 img#images4
 {
