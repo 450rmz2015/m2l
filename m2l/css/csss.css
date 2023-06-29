@@ -25,6 +25,8 @@ header h1
 {
 	 font-size: 250% ;
 	 color: #FFFFFF ;
+	 margin-left: 450px;
+	 padding-top: 100px;
 }
 header h2
 {
@@ -33,12 +35,7 @@ header h2
 		color: #231D1C ;
 }	
 	
-#conteneur h1
-{
-	margin-left: 400px;
-	margin-top: 200px;
-}
-	
+
 #conteneur p
 {
 	color: white;
@@ -54,7 +51,7 @@ p#texte
 
 img#imagedubat
 {
-	margin-top: -20px; 
+	margin-top: -130px; 
 	margin-left: -700px;
 	width: 300px;
 }
