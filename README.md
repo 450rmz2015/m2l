@@ -1,2 +1,1 @@
-MAIS ELLE EST OU JEANNE ?
- 
+Il est lent ce lait
