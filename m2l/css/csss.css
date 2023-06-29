@@ -90,20 +90,6 @@ img#images3
 	width: 100px;  
 }
 
-img#images14
-{
-	margin-left: 250px;
-	margin-top: 35px; 
-	width: 500px;  
-}
-
-img#images15
-{
-	margin-left: 250px;
-	margin-top: 35px; 
-	width: 500px;  
-}
-
 p#Wifi
 {
 	margin-left: 60px;
@@ -136,14 +122,6 @@ p#Categ2
 	text-align: center ;
 }
 
-p#Categ4
-{
-	margin-left: 100px;
-	margin-top: 25px; 
-	text-align: center ;
-}
-
-
 p#Affranchissement
 {
 	margin-left: 60px;
@@ -168,6 +146,111 @@ img#images7
 	margin-left: -5px;
 	margin-top: 50px; 
 	width: 55px;   
+}
+
+p#Categ3
+{
+	margin-left: 100px;
+	margin-top: -5px; 
+	text-align: center ;
+}
+
+img#images8
+{
+	margin-left: -17px;
+	margin-top: -30px; 
+	width: 75px;   
+}
+
+p#FTP
+{
+	margin-left: 60px;
+	margin-top: -85px;  
+}
+
+img#images9
+{
+	margin-left: -17px;
+	margin-top: 10px; 
+	width: 75px;   
+}
+
+p#Reservation
+{
+	margin-left: 60px;
+	margin-top: -95px;  
+}
+
+img#images10
+{
+	margin-left: -17px;
+	margin-top: 10px; 
+	width: 70px;   
+}
+
+p#digi-wifi
+{
+	margin-left: 60px;
+	margin-top: -95px;  
+}
+
+img#images11
+{
+	margin-left: -35px;
+	margin-top: 10px; 
+	width: 110px;   
+}
+
+p#gestion-config
+{
+	margin-left: 60px;
+	margin-top: -85px;  
+}
+
+img#images12
+{
+	margin-left: -25px;
+	margin-top: 10px; 
+	width: 80px;   
+}
+
+p#poste-info
+{
+	margin-left: 60px;
+	margin-top: -90px;  
+}
+
+p#poste-info-detail
+{
+	margin-left: 90px;
+	margin-top: 15px;  
+}
+
+p#poste-info-detail2
+{
+	margin-left: 120px;
+	margin-top: -25px;  
+} 
+
+p#Categ4
+{
+	margin-left: 100px;
+	margin-top: 25px; 
+	text-align: center ;
+}
+
+img#images14
+{
+	margin-left: 250px;
+	margin-top: 35px; 
+	width: 500px;  
+}
+
+img#images15
+{
+	margin-left: 250px;
+	margin-top: 35px; 
+	width: 500px;  
 }
 
 div#titre
