@@ -333,6 +333,12 @@ footer
 	color: #231D1C;
 }
 
+.separateur {
+    width: 15px;
+	color: white;
+    margin: 0 5px;
+}
+
 .boutons {
   margin-left: left;
   margin-bottom: 10px;
@@ -347,7 +353,7 @@ p.copyr {
     margin-left: 100px;
 }
 
-.contact /* classe de style universelle */
+.contact
 {
 	color: blue ;
 }
