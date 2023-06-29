@@ -47,9 +47,9 @@ p#texte
 	
 img#image1
 {
-	margin-left: 780px;
+	margin-left: 850px;
 	margin-top: -110px; 
-	width: 300px;
+	width: 150px;
 }	
 
 img#image2
@@ -103,6 +103,14 @@ img#images5
 	margin-top: -5px;  
 }
 	
+p#Categ2
+{
+	margin-left: 100px;
+	margin-top: 25px; 
+	text-align: center ;
+}
+
+
 p#Affranchissement
 {
 	margin-left: 60px;
@@ -110,6 +118,19 @@ p#Affranchissement
 }
 
 img#images6
+{
+	margin-left: -5px;
+	margin-top: -10px; 
+	width: 55px;   
+}
+
+p#Impressions
+{
+	margin-left: 60px;
+	margin-top: -85px;  
+}
+
+img#images7
 {
 	margin-left: -5px;
 	margin-top: 50px; 
@@ -312,12 +333,6 @@ footer
 	color: #231D1C;
 }
 
-.separateur {
-    width: 15px;
-	color: white;
-    margin: 0 5px;
-}
-
 .boutons {
   margin-left: left;
   margin-bottom: 10px;
@@ -332,7 +347,7 @@ p.copyr {
     margin-left: 100px;
 }
 
-.contact
+.contact /* classe de style universelle */
 {
 	color: blue ;
 }
